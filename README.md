@@ -1,2 +1,1 @@
-# The Tidy Trekker
-Repository for The Tidy Trekker Personal Site.
+# The start of my personal website
