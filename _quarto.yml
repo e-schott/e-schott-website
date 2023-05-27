@@ -13,37 +13,39 @@ website:
         text: Home 
       - href: about.qmd
         text: About Me
-      - href: blog.qmd
-        text: Exploration Corner
+   #   - href: blog.qmd
+    #    text: Exploration Corner
       #- href: resumecv.html
         #text: Resume/CV
-      - text: Portfolios
-        menu:
-          - text: Talks
-            href: talks.qmd
+      - href: portfolio.qmd
+        text: Portfolio
+      
+      #  menu:
+       #   - text: Talks
+        #    href: talks.qmd
           #- text: "Tidy Tuesdays"
             #href: tidytuesdays.html
-          - text: Rtistry Gallery
-            href: rtistry.qmd
-          - text: Genuary Submissions
-            href: https://meghansaha.github.io/genuary_subs/
+          #- text: Rtistry Gallery
+           # href: rtistry.qmd
+         # - text: Genuary Submissions
+          #  href: https://meghansaha.github.io/genuary_subs/
           # - text: aRttools
           #   href: arttools/arttools.html
     
     
     right:
-      - icon: envelope-fill
-        href: "mailto:meghan@thetidytrekker.com"
+    #  - icon: envelope-fill
+     #   href: "mailto:meghan@thetidytrekker.com"
       - icon: github
         href: https://github.com/Meghansaha
       - icon: linkedin
         href: https://www.linkedin.com/in/meghan-harris/
       - icon: twitter
         href: https://twitter.com/meghansharris
-      - icon: mastodon
-        href: https://fosstodon.org/@meghansharris
-      - icon: rss-fill
-        href: blog.xml
+    #  - icon: mastodon
+     #   href: https://fosstodon.org/@meghansharris
+    #  - icon: rss-fill
+     #   href: blog.xml
       #- icon: bag-heart-fill
         #href: https://www.etsy.com/shop/TidyTreks?
 
